@@ -2,7 +2,7 @@
 session_start();
 $hostname="localhost";
 $user="root";
-$dbname="munin";
+$dbname="mconf";
 mysql_connect($hostname,$user);
 mysql_select_db($dbname);
 $q="select * from groups order by id";
