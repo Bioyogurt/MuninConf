@@ -1,2 +1,2 @@
-munin configuration web face
+WebUI for create munin.conf file
 
